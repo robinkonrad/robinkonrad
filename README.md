@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Robin Konrand and I'm a Monolith Conqueror | Cloud Native | Event-Driven | Azure | DevOps | Sociotechnical Systems Architect 👨‍💻
+My name is Robin Konrand and I'm a software and enterprise architect working at XEBIA | XPIRIT helping customers to become a software company by building Engineering Cultures, concentrating on cloud native, event-driven architectures @scale running on Azure and App Modernization.
 
 #### 💬 Ask me about
 - EDA - Event Driven Architectures
@@ -10,9 +10,10 @@ My name is Robin Konrand and I'm a Monolith Conqueror | Cloud Native | Event-Dri
 ####  📫 How to reach me:
 - [Blog](https://robinkonrad.de)
 - [XING](https://www.xing.com/profile/Robin_Konrad)
-- [LinkedIn](https://www.linkedin.com/in/robin-konrad-51a256b2/)
+- [LinkedIn](https://www.linkedin.com/in/robin-konrad/)
 - [Twitter](https://twitter.com/robin_konrad_)
-- [Credly](https://www.credly.com/users/robin-konrad.1eb10cec/)
+- [Credly](https://www.credly.com/users/robin-konrad/)
+- [Sessionize](https://sessionize.com/robin-konrad)
 - [Mail](mailto:hello@robinkonrad.de)
 
 <!--
