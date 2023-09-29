@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Robin Konrand and I'm a software and enterprise architect working at XEBIA | XPIRIT helping customers to become a software company by building Engineering Cultures, concentrating on cloud native, event-driven architectures @scale running on Azure and App Modernization.
+My name is Robin Konrand and I'm a software & enterprise architect working at wipro. Concentrating on organization development and cloud native, event-driven architectures @scale running on Azure and App Modernization.
 
 #### 💬 Ask me about
 - EDA - Event Driven Architectures
