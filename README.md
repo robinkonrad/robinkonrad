@@ -8,7 +8,7 @@ My name is Robin Konrand and I'm a Enterprise Architect & technology strategy le
 - Hexagonal Architectures 
 
 ####  📫 How to reach me:
-- [Blog](https://robinkonrad.de)
+- [Blog](https://www.robinkonrad.de)
 - [XING](https://www.xing.com/profile/Robin_Konrad)
 - [LinkedIn](https://www.linkedin.com/in/robin-konrad/)
 - [Twitter](https://twitter.com/robin_konrad_)
