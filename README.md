@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Robin Konrand and I'm a software & enterprise architect working at wipro. Concentrating on organization development and cloud native, event-driven architectures @scale running on Azure and App Modernization.
+My name is Robin Konrand and I'm a Enterprise Architect & technology strategy leader with 19+ years of experience aligning C-level priorities with executable architecture, cloud modernization, AI-enabled decision support, and delivery reality. Advises organizations on enterprise architecture, application portfolio optimization, integration, security, and technology risk. Combines executive advisory capability with deep hands-on experience in software engineering, distributed systems, DevOps, Azure, AWS, and global platform modernization.
 
 #### 💬 Ask me about
 - EDA - Event Driven Architectures
